@@ -1,4 +1,4 @@
-- 👋 Hi, I’m naveen sahu
+- 👋 Hi, I’m naveen 
 - 👀 I’m interested in ...react development
 - 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on ...react projects
